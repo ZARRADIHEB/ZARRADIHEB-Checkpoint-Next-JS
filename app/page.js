@@ -6,8 +6,8 @@ export default function Home() {
     <div>
       <Navbar title={"iZ17 Portfolio"} />
       <div className={styles.greeting}>
-        <h1>Welcome To iZ17 Portfolio</h1>
-        <p>
+        <h1 className={styles.title}>Welcome To iZ17 Portfolio</h1>
+        <p className={styles.paragraph}>
           Hi, I&apos;m Iheb Zarrad, a passionate full-stack web developer
           specializing in building dynamic, multi-language, and multi-currency
           eCommerce stores using Shopify. With a strong background in web
