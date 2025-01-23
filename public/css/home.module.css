@@ -3,11 +3,15 @@
   flex-direction: column;
   gap: 25px;
   padding: 0 17%;
-  h1 {
+}
+
+  .title {
     font-size: 3.5rem;
     color: #0070f3;
   }
-  p {
+
+
+  .paragraph {
     font-size: 1.3rem;
   }
-}
+
